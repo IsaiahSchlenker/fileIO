@@ -1,10 +1,15 @@
 include iostream, fstream, and sstream
 
 create main function
+    
     create string variables for each value of a line
+    
     create int variables for the numbers and sum of each line
+    
     create an input file stream variable data
+    
     create a string stream variable converter
+    
     create string variable to track the line
 
     open data.csv
